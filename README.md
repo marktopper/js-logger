@@ -18,4 +18,4 @@ JSLogger({
 Then whenever a JS error happens, it will be sent to your `logger.php` file. (Change this to whatever you want)
 
 # Server Examples
-- [Logger.php Example](http://github.com/marktopper/js-logger/examples/serverside/logger.php)
+- [Logger.php Example](https://github.com/marktopper/js-logger/blob/master/examples/serverside/logger.php)
